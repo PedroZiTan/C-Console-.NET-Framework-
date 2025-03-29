@@ -1,0 +1,7 @@
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\bin\Debug\prj36976_L1_Ex10.exe.config
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\bin\Debug\prj36976_L1_Ex10.exe
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\bin\Debug\prj36976_L1_Ex10.pdb
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\obj\Debug\prj36976_L1_Ex10.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\obj\Debug\prj36976_L1_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\obj\Debug\prj36976_L1_Ex10.exe
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex10\prj36976_L1_Ex10\obj\Debug\prj36976_L1_Ex10.pdb

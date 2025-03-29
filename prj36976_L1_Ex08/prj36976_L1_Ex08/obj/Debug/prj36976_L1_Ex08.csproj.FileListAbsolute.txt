@@ -1,0 +1,7 @@
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\bin\Debug\prj36976_L1_Ex08.exe.config
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\bin\Debug\prj36976_L1_Ex08.exe
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\bin\Debug\prj36976_L1_Ex08.pdb
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\obj\Debug\prj36976_L1_Ex08.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\obj\Debug\prj36976_L1_Ex08.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\obj\Debug\prj36976_L1_Ex08.exe
+C:\Users\pedro\OneDrive\Documentos\36976\prj36976_L1_Ex08\prj36976_L1_Ex08\obj\Debug\prj36976_L1_Ex08.pdb
